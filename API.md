@@ -18,9 +18,9 @@
 
 **Request:**
 
-\`\`\`
+```
 GET /get-objects
-\`\`\`
+```
 
 **Response (Success - 200 OK):**
 
