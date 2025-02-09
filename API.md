@@ -10,9 +10,9 @@
 
 ## 1. Получение всех объектов
 
-**Endpoint:** \`/get-objects\`
+**Endpoint:** `get-objects`
 
-**Method:** \`GET\`
+**Method:** `GET`
 
 **Описание:** Возвращает все объекты из базы данных в формате GeoJSON FeatureCollection.
 
